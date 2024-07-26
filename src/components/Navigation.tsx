@@ -88,7 +88,9 @@ function Navigation({ parentToChild, modeChange }: any) {
           <ListItemButton>
             <a
               style={{ flex: 1, textAlign: "center" }}
-              href={"src/curriculum/en_curriculum.pdf"}
+              href={
+                "https://github.com/luancsl/luancsl.github.io/raw/main/src/curriculum/en_curriculum.pdf"
+              }
               target="_blank"
               rel="noreferrer"
             >
@@ -127,7 +129,9 @@ function Navigation({ parentToChild, modeChange }: any) {
             <Button key={0} sx={{ color: "#fff" }} title="Download Resume">
               <a
                 style={{ paddingTop: "10px" }}
-                href={"src/curriculum/en_curriculum.pdf"}
+                href={
+                  "https://github.com/luancsl/luancsl.github.io/raw/main/src/curriculum/en_curriculum.pdf"
+                }
                 target="_blank"
                 rel="noreferrer"
               >
