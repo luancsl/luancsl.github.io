@@ -4,6 +4,7 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import SvgIcon, { SvgIconProps } from '@mui/material/SvgIcon';
 import '../assets/styles/Main.scss';
 
+
 const MediumIcon: React.FC<SvgIconProps> = (props) => {
   return (
     <SvgIcon {...props} viewBox="20 10 512 512">

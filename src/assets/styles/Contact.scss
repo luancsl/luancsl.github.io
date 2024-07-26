@@ -15,12 +15,13 @@
 
   button:hover {
     background-color: #5000ca;
-    color: white;
+    color: rgb(0, 0, 0);
   }
+  
+}
 
-  fieldset {
-    background-color: white;
-  }
+.contact-form .MuiInputBase-input {
+  color: black; /* Adicionando cor preta para o texto */
 }
 
 label {
@@ -42,7 +43,13 @@ form {
   width: 100% !important;
 }
 
+.field-form{
+  background-color: white;
+}
+
 .body-form {
+  background-color: white;
   width: 100% !important;
   margin-bottom: 15px !important;
 }
+
