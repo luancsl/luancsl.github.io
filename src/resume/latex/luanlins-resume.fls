@@ -228,6 +228,9 @@ INPUT .\src\projects.tex
 INPUT .\src\projects.tex
 INPUT .\src\projects.tex
 INPUT src\projects.tex
+INPUT .\src\skills.tex
+INPUT .\src\skills.tex
+INPUT src\skills.tex
 INPUT C:\Users\luan_\AppData\Local\Programs\MiKTeX\fonts\vf\typoland\lato\Lato-Bold-OT1-TLF.vf
 INPUT C:\Users\luan_\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Bold-OT1-TLF--base.tfm
 INPUT C:\Users\luan_\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
@@ -248,9 +251,6 @@ INPUT C:\Users\luan_\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-
 INPUT C:\Users\luan_\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lato\a_vc7epu.enc
 INPUT C:\Users\luan_\AppData\Local\Programs\MiKTeX\fonts\vf\typoland\lato\Lato-Bold-OT1-TLF.vf
 INPUT C:\Users\luan_\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Bold-OT1-TLF--base.tfm
-INPUT .\src\skills.tex
-INPUT .\src\skills.tex
-INPUT src\skills.tex
 INPUT .\src\certifications.tex
 INPUT .\src\certifications.tex
 INPUT src\certifications.tex

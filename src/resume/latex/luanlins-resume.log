@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.7)  7 AUG 2024 23:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.7)  8 AUG 2024 01:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -380,7 +380,10 @@ LaTeX Font Info:    Font shape `OT1/lato-TLF/m/sc' will be
 (Font)              scaled to size 10.95pt on input line 2.
 LaTeX Font Info:    Font shape `OT1/lato-TLF/b/n' will be
 (Font)              scaled to size 10.0pt on input line 13.
-) (src/projects.tex
+) (src/projects.tex) (src/skills.tex
+LaTeX Font Info:    Font shape `OT1/lato-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 2.
+
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
@@ -391,7 +394,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 
 
-{C:/Users/luan_/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lato/a_y72t7m.enc}{C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lato/a_vc7epu.enc}]) (src/skills.tex) (src/certifications.tex) (src/patents.tex) (src/publications.tex
+{C:/Users/luan_/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lato/a_y72t7m.enc}{C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lato/a_vc7epu.enc}]) (src/certifications.tex) (src/patents.tex) (src/publications.tex
 LaTeX Font Info:    Font shape `OT1/lato-TLF/b/it' will be
 (Font)              scaled to size 10.0pt on input line 8.
 )
@@ -413,17 +416,17 @@ Package rerunfilecheck Info: File `luanlins-resume.out' has not changed.
 (rerunfilecheck)             Checksum: 69127960EB938BFF817E9511216BDB04;684.
  ) 
 Here is how much of TeX's memory you used:
- 14465 strings out of 474486
- 254898 string characters out of 5743756
- 1959542 words of memory out of 5000000
- 36514 multiletter control sequences out of 15000+600000
+ 14466 strings out of 474486
+ 254917 string characters out of 5743756
+ 1962542 words of memory out of 5000000
+ 36515 multiletter control sequences out of 15000+600000
  603956 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,487b,700s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,358b,582s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-Bold.pfb><C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-BoldItalic.pfb><C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-Italic.pfb><C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-Regular.pfb><C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on luanlins-resume.pdf (2 pages, 150786 bytes).
+Output written on luanlins-resume.pdf (2 pages, 149907 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
+ 106 PDF objects out of 1000 (max. 8388607)
  10 named destinations out of 1000 (max. 500000)
  57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
