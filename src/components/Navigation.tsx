@@ -89,7 +89,7 @@ function Navigation({ parentToChild, modeChange }: any) {
             <a
               style={{ flex: 1, textAlign: "center" }}
               href={
-                "https://github.com/luancsl/luancsl.github.io/raw/main/src/curriculum/en_curriculum.pdf"
+                "https://github.com/luancsl/luancsl.github.io/raw/main/src/resume/latex/luanlins-resume.pdf"
               }
               target="_blank"
               rel="noreferrer"
@@ -130,7 +130,7 @@ function Navigation({ parentToChild, modeChange }: any) {
               <a
                 style={{ paddingTop: "10px" }}
                 href={
-                  "https://github.com/luancsl/luancsl.github.io/raw/main/src/curriculum/en_curriculum.pdf"
+                  "https://github.com/luancsl/luancsl.github.io/raw/main/src/resume/latex/luanlins-resume.pdf"
                 }
                 target="_blank"
                 rel="noreferrer"
