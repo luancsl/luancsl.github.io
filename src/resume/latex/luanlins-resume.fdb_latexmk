@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1723090522.15187 "c:/github-page/luancsl.github.io/src/resume/latex/luanlins-resume.tex" "luanlins-resume.pdf" "luanlins-resume" 1723090523.89763 0
+["pdflatex"] 1723173645.84264 "c:/github-page/luancsl.github.io/src/resume/latex/luanlins-resume.tex" "luanlins-resume.pdf" "luanlins-resume" 1723173647.85911 0
   "C:/Users/luan_/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1723062912 156295 a701e96c6414118801366675601e3f8a ""
   "C:/Users/luan_/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1723048604 24225045 4dbdbfa274047cfd19bf27f1ef9fed78 ""
   "C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1651500229 2920 d63721872b8c77041b88e51b8f7c291d ""
@@ -118,17 +118,17 @@
   "C:/Users/luan_/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/luan_/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "c:/github-page/luancsl.github.io/src/resume/latex/luanlins-resume.tex" 1723049795 1919 2b2093a5cc7844b1a4219d8bf5f02d30 ""
-  "custom-commands.aux" 1723090523 583 cf396e57031e5cbc302da50552829b29 "pdflatex"
+  "custom-commands.aux" 1723173647 583 cf396e57031e5cbc302da50552829b29 "pdflatex"
   "custom-commands.tex" 1723067185 2293 2eaa12d00853a7211ca7f0d2b0af3609 ""
-  "luanlins-resume.aux" 1723090523 1026 9186f65eb6868a2eab6c56be166d55b1 "pdflatex"
-  "luanlins-resume.out" 1723090523 684 69127960eb938bff817e9511216bdb04 "pdflatex"
+  "luanlins-resume.aux" 1723173647 1026 9186f65eb6868a2eab6c56be166d55b1 "pdflatex"
+  "luanlins-resume.out" 1723173647 684 69127960eb938bff817e9511216bdb04 "pdflatex"
   "luanlins-resume.tex" 1723049795 1919 2b2093a5cc7844b1a4219d8bf5f02d30 ""
   "src/certifications.tex" 1723078493 323 8c1a7d58f82dfa174246087f5fa6bc95 ""
   "src/education.tex" 1723089244 547 d0ccd08ba5cdbf50d73e273ef98c42fd ""
-  "src/experience.tex" 1723090192 2389 3d745fc72667ea311c221ef8ef09a17c ""
+  "src/experience.tex" 1723173534 2339 2731da3bd39ecc2081addb73091f0c5c ""
   "src/heading.tex" 1723078573 581 85eb30847f1dd3814eb116f1ec1fde76 ""
   "src/patents.tex" 1723089280 681 abfb283240291e2cc1797ec2e17abc1b ""
-  "src/projects.tex" 1723090520 1615 7a72c558eac08c014319e131f5e067b1 ""
+  "src/projects.tex" 1723173644 1625 798fc5b7d443697751a027c735bc992d ""
   "src/publications.tex" 1723090368 914 2fa3221e268215da584314b7a466be74 ""
   "src/skills.tex" 1723089525 781 e9543fe0ccf64422fc300137d1bede03 ""
   (generated)
