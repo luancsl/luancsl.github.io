@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.7)  13 NOV 2024 22:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.7)  13 NOV 2024 22:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/github-page/luancsl.github.io/src/resume/latex/luanlins-resume.tex
-(c:/github-page/luancsl.github.io/src/resume/latex/luanlins-resume.tex
+**c:/github-page/luancsl.github.io/src/resume/latex/luanlins-curriculo.tex
+(c:/github-page/luancsl.github.io/src/resume/latex/luanlins-curriculo.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\luan_\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -282,8 +282,8 @@ File: OT1lato-TLF.fd 2019/06/24 Font definitions for OT1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/lato-TLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 58.
- (luanlins-resume.aux (custom-commands.aux))
-\openout1 = `luanlins-resume.aux'.
+ (luanlins-curriculo.aux (custom-commands.aux))
+\openout1 = `luanlins-curriculo.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
 LaTeX Font Info:    ... okay on input line 58.
@@ -318,9 +318,9 @@ LaTeX Font Info:    ... okay on input line 58.
 \everyMPtoPDFconversion=\toks28
 )
 Package hyperref Info: Link coloring OFF on input line 58.
- (luanlins-resume.out) (luanlins-resume.out)
+ (luanlins-curriculo.out) (luanlins-curriculo.out)
 \@outlinefile=\write3
-\openout3 = `luanlins-resume.out'.
+\openout3 = `luanlins-curriculo.out'.
 
 \c@mv@tabular=\count286
 \c@mv@boldtabular=\count287
@@ -328,7 +328,7 @@ Package hyperref Info: Link coloring OFF on input line 58.
 
  (custom-commands.tex
 Package color Info: Redefining color Black on input line 56.
-) (src/heading.tex
+) (src_pt/heading.tex
 LaTeX Font Info:    Font shape `OT1/lato-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 3.
 LaTeX Font Info:    Font shape `OT1/lato-TLF/b/n' will be
@@ -356,7 +356,7 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on 
  (C:\Users\luan_\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 6.
-) (src/experience.tex
+) (src_pt/experience.tex
 
 LaTeX Font Warning: Font shape `OT1/lato-TLF/m/sc' undefined
 (Font)              using `OT1/lato-TLF/m/n' instead on input line 2.
@@ -375,12 +375,12 @@ LaTeX Font Info:    Font shape `OT1/lato-TLF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 7.
 LaTeX Font Info:    Font shape `OT1/lato-TLF/m/n' will be
 (Font)              scaled to size 6.0pt on input line 9.
-) (src/education.tex
+) (src_pt/education.tex
 LaTeX Font Info:    Font shape `OT1/lato-TLF/m/sc' will be
 (Font)              scaled to size 10.95pt on input line 2.
 LaTeX Font Info:    Font shape `OT1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 13.
-) (src/projects.tex
+(Font)              scaled to size 10.0pt on input line 12.
+) (src_pt/projects.tex
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
@@ -391,7 +391,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 
 
-{C:/Users/luan_/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lato/a_y72t7m.enc}{C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lato/a_vc7epu.enc}]) (src/skills.tex) (src/certifications.tex) (src/patents.tex) (src/publications.tex
+{C:/Users/luan_/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lato/a_y72t7m.enc}{C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lato/a_vc7epu.enc}]) (src_pt/skills.tex) (src_pt/certifications.tex) (src_pt/patents.tex) (src_pt/publications.tex
 LaTeX Font Info:    Font shape `OT1/lato-TLF/b/it' will be
 (Font)              scaled to size 10.0pt on input line 8.
 )
@@ -400,7 +400,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.08003pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
-[2] (luanlins-resume.aux (custom-commands.aux))
+[2] (luanlins-curriculo.aux (custom-commands.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -409,19 +409,19 @@ L3 programming layer <2024-01-04>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `luanlins-resume.out' has not changed.
-(rerunfilecheck)             Checksum: 69127960EB938BFF817E9511216BDB04;684.
+Package rerunfilecheck Info: File `luanlins-curriculo.out' has not changed.
+(rerunfilecheck)             Checksum: 80570C06FDBE4B14F2439502AF42A9EC;700.
  ) 
 Here is how much of TeX's memory you used:
- 14465 strings out of 474486
- 254898 string characters out of 5743756
- 1960542 words of memory out of 5000000
- 36514 multiletter control sequences out of 15000+600000
+ 14471 strings out of 474486
+ 255151 string characters out of 5743756
+ 1968542 words of memory out of 5000000
+ 36520 multiletter control sequences out of 15000+600000
  603956 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,358b,700s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,379b,702s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-Bold.pfb><C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-BoldItalic.pfb><C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-Italic.pfb><C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-Regular.pfb><C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/luan_/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on luanlins-resume.pdf (2 pages, 150145 bytes).
+Output written on luanlins-curriculo.pdf (2 pages, 152063 bytes).
 PDF statistics:
  106 PDF objects out of 1000 (max. 8388607)
  10 named destinations out of 1000 (max. 500000)
