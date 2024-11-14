@@ -75,12 +75,12 @@ function Timeline() {
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2021 - present"
+            date="2021 - 2024"
             iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
             icon={<FontAwesomeIcon icon={faBuildingColumns} />}
           >
             <h3 className="vertical-timeline-element-title">
-              Candidate for Master's Degree in Computer Science
+              Master's degree in Computer Science
             </h3>
             <h4 className="vertical-timeline-element-subtitle">
               Pernambuco, Brazil
