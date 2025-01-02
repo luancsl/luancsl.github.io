@@ -28,7 +28,7 @@ function Main() {
             <a href="https://medium.com/@luancsl" target="_blank" rel="noreferrer"><MediumIcon/></a>
           </div>
           <h1>Luan Lins</h1>
-          <p>Fullstack Software Engineer</p>
+          <p>Senior Software Engineer</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/luancsl" target="_blank" rel="noreferrer"><GitHubIcon/></a>

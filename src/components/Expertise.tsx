@@ -61,7 +61,7 @@ function Expertise() {
         <div className="skills-grid">
           <div className="skill">
             <FontAwesomeIcon icon={faReact} size="3x" />
-            <h3>Full Stack Development</h3>
+            <h3>Senior Software Engineer</h3>
             <p style={{ textAlign: "justify" }}>
               I have some experience developing end-to-end web and mobile
               applications, using React for web applications and React Native
@@ -82,7 +82,7 @@ function Expertise() {
 
           <div className="skill">
             <FontAwesomeIcon icon={faDocker} size="3x" />
-            <h3>DevOps & Automation</h3>
+            <h3>Infrastructure & Automation</h3>
             <p style={{ textAlign: "justify" }}>
               I developed some ELT processes for real-time ingestion of large
               volumes of data from IoT devices, performing transformations,

@@ -23,13 +23,13 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">
-              DevOps Developer
+              Senior Software Engineer
             </h3>
             <h4 className="vertical-timeline-element-subtitle">
               LACETI, Brazil
             </h4>
             <p>
-              As a Technical Lead and Devops Developer, I developed ELT
+              As Senior Software Engineer, I developed ELT
               pipelines for data cleaning and storage, in addition to
               orchestrating MLOps pipelines for machine learning workflows,
               ensuring efficiency and accuracy in analysis processes
@@ -61,7 +61,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">
-              Fullstack Developer
+              Software Engineer
             </h3>
             <h4 className="vertical-timeline-element-subtitle">
               LACETI, Brazil
